@@ -4,6 +4,7 @@ a mod to fix issue #9008 on Minetest :
 https://github.com/minetest/minetest/issues/9008
 
 you can install it as a normal mod
+
 only work serverside/in singleplayer currently
 
 ~~or install it as a client side mod to also fix the issue on servers :
